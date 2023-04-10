@@ -1,4 +1,6 @@
 # Anderson Lira
+<div align="center">
+<img src="https://user-images.githubusercontent.com/72878812/230811691-e1c37396-afbb-4fe6-a23f-db4946c701e1.jpeg" width="200px"/>
 
 # Introdução
 Olá, meu nome é Anderson. Sou estudante da Fatec de São José dos Campos, tenho 39 anos e um pouquinho de experiência na área da indústria adquirida nas empresas onde trabalhei, Embraer trabalhando como montador de aeronaves e atualmente na Johnson, na fabricação de agulhas cirurgicas. Agora me encontro como estudante de Análise e desenvolvimento de sistemas na Fatec, buscando me desafiar a cada dia para trilhar um caminhao na área da tecnologia.
@@ -10,6 +12,19 @@ Meu curso atua me permite aplicar minha experiência prática com habilidades t�
 * [Github](https://github.com/alira1984)
 * [Linkedin](https://www.linkedin.com/in/anderson-lira-ads/)
 
+# Meus principais conhecimentos
 
-
-
+| Tecnologias   |    Básico     | Intermediário | Avançado |
+| ------------- | ------------- | ------------- | -------- |
+|    Html       |               |     ✔         |          |
+|    CSS        |      ✔        |               |          |
+|    Git        |               |        ✔      |          |
+|    Java       |        ✔      |               |          |
+|    C          |         ✔     |               |          |
+|    Python     |               |        ✔      |          |
+|    JavaScript |         ✔     |               |          |
+|    React      |        ✔      |               |          |
+|   React Native|         ✔     |               |          |
+|    Mysql      |               |       ✔       |          |
+|   PostgreSQL  |        ✔      |               |          |
+|    MongoDB    |         ✔     |               |          |
