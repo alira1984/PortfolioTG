@@ -1,4 +1,4 @@
-# Anderson Lira
+<h1 align="center"> Anderson Lira </h1>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/72878812/230811691-e1c37396-afbb-4fe6-a23f-db4946c701e1.jpeg" width="200px"/>
 
@@ -34,12 +34,12 @@ Acesse aqui meu [Linkedin](https://www.linkedin.com/in/anderson-lira-ads/).
 
 
 <h1 align="left">  Meus projetos </h1>
-<p align="justify"> A seguir há uma descrição de cada projeto desenvolvido. Também, há um link dedicado para cada projeto: </P>
-
-* Aqui está os projetos desenvolvidos em equipe.
+<p align="justify"> Aqui estão os projetos desenvolvidos até o 5º semestre. Também, há um link dedicado para cada projeto: </P>
 
 1. Primeiro semestre 2020
-CPU-Centro de formação universitária: È um site desenvolvido para venda de materiais didáticos online (e-commerce). Ele oferece aos clientes os conteúdos mais visados na área da tecnologia e informação nos dias atuais.
+ [CPU-Centro de formação universitária](https://github.com/cpusfatec/cpusfatec): È um site desenvolvido para venda de materiais didáticos online (e-commerce). Ele oferece aos clientes os conteúdos mais visados na área da tecnologia e informação nos dias atuais.
 * [Visite o site aqui](http://cpu.rf.gd/) 
+
+
 
 
