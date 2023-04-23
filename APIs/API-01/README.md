@@ -15,3 +15,6 @@
 |Html  |   |  ✔ |
 | CSS  |  |  ✔ |
 | MySQL  |  ✔  |  |
+
+# Contribuições pessoais
+<p> Neste primeiro projeto atuei como desenvolvedor, ficando responsavél pela elaboração da documentação do projeto as apresentações das Sprints, layout das páginas e também de backup, para algum imprevisto que viessem a acontecer. </p>
