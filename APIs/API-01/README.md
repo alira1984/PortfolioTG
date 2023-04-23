@@ -10,8 +10,8 @@
 # Tecnologias utilizadas
 | Tecnologias  | Backend | Frontend
 | ------------- | ------------- | ------------- |
-|PHP  | Content Cell  |  |
-| Java  | Content Cell  |  |
-|Html  | Content Cell  |  |
-| CSS  | Content Cell  |  |
-| MySQL  | Content Cell  |  |
+|PHP  |  ✔ |  |
+| Java  |   |  ✔ |
+|Html  |   |  ✔ |
+| CSS  |  |  ✔ |
+| MySQL  |  ✔  |  |
