@@ -37,7 +37,7 @@ Acesse aqui meu [Linkedin](https://www.linkedin.com/in/anderson-lira-ads/).
 <p align="justify"> Aqui estão os projetos desenvolvidos até o 5º semestre. Também, há um link dedicado para cada projeto: </P>
 
 1. Primeiro semestre 2020
- [CPU-Centro de formação universitária](https://github.com/alira1984/PortifolioTG/blob/main/APIs): È um site desenvolvido para venda de materiais didáticos online (e-commerce). Ele oferece aos clientes os conteúdos mais visados na área da tecnologia e informação nos dias atuais.
+ [CPU-Centro de formação universitária](https://github.com/alira1984/PortifolioTG/tree/main/APIs/API-01): È um site desenvolvido para venda de materiais didáticos online (e-commerce). Ele oferece aos clientes os conteúdos mais visados na área da tecnologia e informação nos dias atuais.
 * [Visite o site aqui](http://cpu.rf.gd/) 
 
 
