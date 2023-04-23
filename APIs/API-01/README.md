@@ -1,3 +1,3 @@
 <h1 align="center"> Centro de programação Universitário </h1>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/72878812/230811691-e1c37396-afbb-4fe6-a23f-db4946c701e1.jpeg" width="200px"/>
+<img src="https://raw.githubusercontent.com/cpusfatec/cpusfatec/main/Imagens%20e%20Arquivos%20do%20Projeto/LOGO-01.png" width="200px"/>
