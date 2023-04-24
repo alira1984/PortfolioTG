@@ -31,3 +31,5 @@
 
 ### Trabalho em equipe
 <p> Para nosso grupo conseguir desenvolver o projeto e fazer as entregas das sprints, tivemos que nos reunir varias vezes e alinhar as tarefas que cada integrante iria realizar. Para isso o trabalho em grupo foi essêncial, como integrante me coloquei a disposição para atuar em varias frentes e ajudar onde fosse preciso para realizar as tarefas. </p>
+
+* [Visite o site aqui](http://cpu.rf.gd/) 
