@@ -41,7 +41,7 @@ Acesse aqui meu [Linkedin](https://www.linkedin.com/in/anderson-lira-ads/).
  [CPU-Centro de formação universitária](https://github.com/alira1984/PortifolioTG/tree/main/APIs/API-01): È um site desenvolvido para venda de materiais didáticos online (e-commerce). Ele oferece aos clientes os conteúdos mais visados na área da tecnologia e informação nos dias atuais.
  
  2. 2º semestre-2021-1
- [GSW-Dashboard](https://github.com/alira1984/PortifolioTG/tree/main/APIs/API-01): Criação de uma plataforma de Dashboard, de fácil entendimento que demonstre o status e informações dos projetos desenvolvidos pela empresa GSW.
+ [GSW-Dashboard](https://github.com/alira1984/PortifolioTG/tree/main/APIs/API-02): Criação de uma plataforma de Dashboard, de fácil entendimento que demonstre o status e informações dos projetos desenvolvidos pela empresa GSW.
 
 
 
