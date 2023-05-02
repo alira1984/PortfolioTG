@@ -36,4 +36,5 @@
 ### Gestão do tempo
 <p> Para se chegar ao final do semestre e conseguir entregar e pontuar em todas as sprints tive que fazer a gestão do meu tempo e através da metodologia Scrum enumerar as tarefas pela prioridade e dificuldade, assim trabalhando de um modo mais preciso.  </p>
 
-* [Plataforma em funcionamento](http://cpu.rf.gd/) 
+* [Plataforma em funcionamento](https://github.com/cpusfatec/DashBoard/blob/main/SPRINT%204/GIF-PROJETO-SPRINT-4.gif) 
+* [Acesse a plataforma aqui!](http://cpu.rf.gd/json/) 
