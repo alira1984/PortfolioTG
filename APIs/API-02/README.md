@@ -19,19 +19,21 @@
 | MySQL  |  ✔  |  |
 
 # Contribuições pessoais
-<p> Neste primeiro projeto atuei como desenvolvedor, ficando responsavél pela elaboração da documentação do projeto as apresentações das Sprints, layout das páginas e também de backup, para algum imprevisto que viessem a acontecer. </p>
+<p> Novamente atuei como desenvolvedor, ficando responsavél pelo desenvolvimento dos templates, através da ferramenta figma, criar e apresentar as sprints e ajudar na criação do github do projeto.
+</p>
 
 # Hard Skills
 * CSS - Sei fazer com autonomia
 * Html - Sei fazer com autonomia
 * PowerPoint - Sei fazer com autonomia 
 * Figma - Sei fazer com autonomia
+* Github - Sei fazer com ajuda
 
 # Soft Skills
-### Comunicação
-<p> Durante o projeto tive que exercer minha comunicação para ajudar a integrar o grupo, como as aulas eram online se fazia necessário muito comunicação para alinhar as ideias para conseguir desenvolver o projeto.  </P>
+### Suportar críticas
+<p> Durante o projeto nosso cliente fez diversas críticas referentes ao template da plataforma, assim tivemos que lidar com isso e saber contornar a situação e aplicar a melhor estratégia para chegar onde o cliente queria.  </P>
 
-### Trabalho em equipe
-<p> Para nosso grupo conseguir desenvolver o projeto e fazer as entregas das sprints, tivemos que nos reunir varias vezes e alinhar as tarefas que cada integrante iria realizar. Para isso o trabalho em grupo foi essêncial, como integrante me coloquei a disposição para atuar em varias frentes e ajudar onde fosse preciso para realizar as tarefas. </p>
+### Gestão do tempo
+<p> Para se chegar ao final do semestre e conseguir entregar e pontuar em todas as sprints tive que fazer a gestão do meu tempo e através da metodologia Scrum enumerar as tarefas pela prioridade e dificuldade, assim trabalhando de um modo mais preciso.  </p>
 
-* [Visite o site aqui](http://cpu.rf.gd/) 
+* [Plataforma em funcionamento](http://cpu.rf.gd/) 
