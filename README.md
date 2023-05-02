@@ -37,8 +37,11 @@ Acesse aqui meu [Linkedin](https://www.linkedin.com/in/anderson-lira-ads/).
 <h1 align="left">  Meus projetos </h1>
 <p align="justify"> Aqui está o meu primeiro projeto desenvolvido na FATEC, iniciado no segundo semestre de 2020. Também, há um link dedicado para o projeto: </P>
 
-1. 1º semestre-2020
+1. 1º semestre-2020-2
  [CPU-Centro de formação universitária](https://github.com/alira1984/PortifolioTG/tree/main/APIs/API-01): È um site desenvolvido para venda de materiais didáticos online (e-commerce). Ele oferece aos clientes os conteúdos mais visados na área da tecnologia e informação nos dias atuais.
+ 
+ 2. 2º semestre-2021-1
+ [GSW-Dashboard](https://github.com/alira1984/PortifolioTG/tree/main/APIs/API-01): Criação de uma plataforma de Dashboard, de fácil entendimento que demonstre o status e informações dos projetos desenvolvidos pela empresa GSW.
 
 
 
