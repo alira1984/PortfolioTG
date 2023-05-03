@@ -24,12 +24,15 @@
 # Hard Skills
 * CSS - Sei fazer com autonomia
 * Html - Sei fazer com autonomia
-* PowerPoint - Sei fazer com autonomia 
+* Java - Sei fazer com ajuda
 * Figma - Sei fazer com autonomia
+* Spring - Sei fazer com ajuda
+* BootStrap - Sei fazer com ajuda
+* Mysql - Sei fazer com ajuda
 
 # Soft Skills
-### Comunicação
-<p> Durante o projeto tive que exercer minha comunicação para ajudar a integrar o grupo, como as aulas eram online se fazia necessário muito comunicação para alinhar as ideias para conseguir desenvolver o projeto.  </P>
+### Resiliência
+<p> Durante este semestre, atuei como Scrum Master e essa experiência me exigiu muita resiliência. Em determinado momento do projeto, enfrentamos duas desistências de membros da equipe e uma demissão, o que nos obrigou a nos reorganizar para conseguir atender às demandas e entregar o projeto dentro do prazo estabelecido.  </P>
 
 ### Trabalho em equipe
 <p> Para nosso grupo conseguir desenvolver o projeto e fazer as entregas das sprints, tivemos que nos reunir varias vezes e alinhar as tarefas que cada integrante iria realizar. Para isso o trabalho em grupo foi essêncial, como integrante me coloquei a disposição para atuar em varias frentes e ajudar onde fosse preciso para realizar as tarefas. </p>
