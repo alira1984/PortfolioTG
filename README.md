@@ -44,7 +44,7 @@ Acesse aqui meu [Linkedin](https://www.linkedin.com/in/anderson-lira-ads/).
  [GSW-Dashboard](https://github.com/alira1984/PortifolioTG/tree/main/APIs/API-02): Criação de uma plataforma de Dashboard, de fácil entendimento que demonstre o status e informações dos projetos desenvolvidos pela empresa GSW.
  
  3. 3º semestre-2021-2
- [Ionic Health Project](https://github.com/alira1984/PortifolioTG/tree/main/APIs/API-03): Criação de uma plataforma de Dashboard, de fácil entendimento que demonstre o status e informações dos projetos desenvolvidos pela empresa GSW.
+ [Ionic Health Project](https://github.com/alira1984/PortifolioTG/tree/main/APIs/API-03): Uma plataforma de CRM (Customer Relationship Management) com a finalidade de gerenciar o relacionamento entre empresa e cliente, desta forma potencializando os dados dos clientes para definir futuras oportunidades.
 
 
 
