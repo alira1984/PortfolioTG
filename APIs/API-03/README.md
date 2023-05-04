@@ -5,7 +5,7 @@
 
 # O projeto 
 
-  <p> Criação de um CRM, Customer Relationship Management ou gestão de relacionamento com o cliente de fácil visualização que armazene informações de clientes atuais, potenciais e entregue relatórios ajudando na estratégia de negócios da empresa </p>
+  <p> Criação de um CRM (Customer Relationship Management) ou gestão de relacionamento com o cliente de fácil visualização, que armazene informações de clientes atuais, potenciais e entregue relatórios ajudando a empresa desenvolver estratégia de negócios. </p>
   
 # Tecnologias utilizadas
 | Tecnologias  | Backend | Frontend | Template |
