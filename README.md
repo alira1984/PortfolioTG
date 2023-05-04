@@ -42,6 +42,9 @@ Acesse aqui meu [Linkedin](https://www.linkedin.com/in/anderson-lira-ads/).
  
  2. 2º semestre-2021-1
  [GSW-Dashboard](https://github.com/alira1984/PortifolioTG/tree/main/APIs/API-02): Criação de uma plataforma de Dashboard, de fácil entendimento que demonstre o status e informações dos projetos desenvolvidos pela empresa GSW.
+ 
+ 3. 3º semestre-2021-2
+ [Ionic Health Project](https://github.com/alira1984/PortifolioTG/tree/main/APIs/API-03): Criação de uma plataforma de Dashboard, de fácil entendimento que demonstre o status e informações dos projetos desenvolvidos pela empresa GSW.
 
 
 
