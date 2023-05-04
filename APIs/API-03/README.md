@@ -36,5 +36,8 @@
 
 ### Liderança
 <p> Na realização deste projeto, enfrentamos vários problemas, o que me fez buscar maneiras de resolvê-los. Para solucionar os conflitos, tive que dialogar individualmente com cada membro da equipe a respeito do comprometimento, entrega de valor e desempenho. Ao fazer isso, pude desenvolver a capacidade de inspirar e motivar a equipe para alcançar o objetivo final. </p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/cpusfatec/cpusfatec/main/Imagens%20e%20Arquivos%20do%20Projeto/LOGO-01.png" width="200px"/>
 
 * [Gif da plataforma em funcionamento](https://github.com/cpusfatec/IONIC-Health-Project/blob/main/Imagens/gerente.gif) 
+</div>
