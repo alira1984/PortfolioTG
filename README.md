@@ -3,9 +3,9 @@
 <img src="https://user-images.githubusercontent.com/72878812/230811691-e1c37396-afbb-4fe6-a23f-db4946c701e1.jpeg" width="200px"/>
 
 <h1 align="left"> Introdução </h1>
-<p align="justify">Olá, meu nome é Anderson. Sou estudante da Fatec de São José dos Campos, tenho 39 anos e um pouquinho de experiência na área da indústria adquirida nas empresas onde trabalhei, Embraer trabalhando como montador de aeronaves e atualmente na Johnson, na fabricação de agulhas cirurgicas. Agora me encontro como estudante de Análise e desenvolvimento de sistemas na Fatec, buscando me desafiar a cada dia para trilhar um caminho na área da tecnologia.
-Atualmente, estou cursando o 5º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec Jessen Vidal de São José dos Campos-SP, onde tenho a oportunidade de desenvolver habilidades em várias linguagens de programação. Minhas experiências na indústria da aviação me ensinaram a ter um olhar atento para os detalhes e a ser diligente e metódico no meu trabalho. Trabalhar em uma empresa de saúde me ensinou a importância da precisão e segurança na produção de dispositivos médicos.
-Meu curso atua me permite aplicar minha experiência prática com habilidades técnicas em diversas linguagens de programação e a trabalhar em equipe para resolver problemas complexos. Estou empolgado para continuar desenvolvendo minhas habilidades e contribuir para a criação de soluções tecnológicas inovadoras.</p>
+<p align="justify">Olá! Meu nome é Anderson e atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos. Com 39 anos de idade, possuo experiência prévia na indústria, tendo trabalhado como montador de aeronaves na Embraer e atualmente na Johnson, onde trabalho na fabricação de agulhas cirúrgicas.
+Ao longo do tempo, aprendi a ser atento aos detalhes e a trabalhar com diligência e método, características essenciais na indústria da aviação e na produção de dispositivos médicos. Com o curso de Análise e Desenvolvimento de Sistemas, estou expandindo minhas habilidades em diversas linguagens de programação e aprendendo a trabalhar em equipe para resolver problemas complexos.
+Atualmente estou cursando o 5º semestre do curso na Fatec Jessen Vidal de São José dos Campos-SP e estou animado para continuar desenvolvendo minhas habilidades e contribuir para a criação de soluções tecnológicas inovadoras.</p>
 </div>
 
 <h1 align="left">  Contatos :book: </h1>
