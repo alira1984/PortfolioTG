@@ -8,15 +8,15 @@
   <p> Criação de um CRM (Customer Relationship Management) ou gestão de relacionamento com o cliente de fácil visualização, que armazene informações de clientes atuais, potenciais e entregue relatórios ajudando a empresa desenvolver estratégia de negócios. </p>
   
 # Tecnologias utilizadas
-| Tecnologias  | Backend | Frontend | Template |
-| ------------- | ------------- | ------------- | -------------- |
-| Java  | ✔  |   |   |
-| Html  |   |  ✔ |   |
-| CSS  |  |  ✔ |   |
-| MySQL  |  ✔  |  |   |
-| Spring  |    | ✔ |   |
-| BootStrap  |   | ✔ |  |
-| Figma  |   |  | ✔  |
+| Tecnologias  | Backend | Frontend | Template | Função |
+| ------------- | ------------- | ------------- | -------------- | ------------- |
+| Java  | ✔  |   |   | Usado para o desenvolvimento back-end da aplicação, operando as partes por trás do sistema.|
+| Html  |   |  ✔ |   | Usado na criação das páginas web, aquelas que são visíveis para o usuário.|
+| CSS  |  |  ✔ |   | Usado para estilizar os componentes das páginas web, estruturando cor, fonte e espaçamento da página.|
+| MySQL  |  ✔  |  |   | Utilizado no gerenciamento e manipulação de dados do sistema.|
+| Spring Boot  |  ✔  |  |   | Framework utilizado para combinar as dependências do projeto em apenas uma.|
+| BootStrap  |   | ✔ |  | Framework front-end, responsável por fornecer estruturas de CSS para a criação do sistema de forma responsiva. |
+| Figma  |   |  | ✔  | Ferramenta utilizada para fazer a prototipação do projeto, gerando templates que demonstra como ficara as páginas do projeto.|
 
 # Contribuições pessoais
 <p> Desta vez atuei com Scrum Master, fazendo o gerenciamento do projeto auxiliando a equipe na eliminação de obstáculos e assegurando que todos os desenvolvedores do projeto caminhassem lado a lado com os princípios do desenvolvimento ágil. Também atuei no desnvolvimento backend, desenvolvendo o campo de cadastro de clientes B2B E B2C e o campo listar clientes. </p>
