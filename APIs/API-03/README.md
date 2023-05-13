@@ -8,7 +8,7 @@
   <p> Criação de um CRM (Customer Relationship Management) ou gestão de relacionamento com o cliente de fácil visualização, que armazene informações de clientes atuais, potenciais e entregue relatórios ajudando a empresa desenvolver estratégia de negócios. </p>
   
 # Tecnologias utilizadas
-| Tecnologias  | Backend | Frontend | Template | Função |
+| Tecnologias  | Backend | Frontend | Design | Função |
 | ------------- | ------------- | ------------- | -------------- | ------------- |
 | Java  | ✔  |   |   | Usado para o desenvolvimento back-end da aplicação, operando as partes por trás do sistema.|
 | Html  |   |  ✔ |   | Usado na criação das páginas web, aquelas que são visíveis para o usuário.|
