@@ -8,13 +8,12 @@
   <p> Neste primeiro projeto desenvolvemos um site para venda de materiais didáticos online (e-commerce). O site visa de forma prática e simples, oferecer aos clientes os conteúdos de Matemática, Português, Arquitetura e organização de computadores, Lógica de programação, Laboratório de hardware e Inglês. Atráves da compra de algum desses produtos o cliente receberia os materiais no formato digital (PDF), relacionados a campra escolhida por ele.  </p>
   
 # Tecnologias utilizadas
-| Tecnologias  | Backend | Frontend
-| ------------- | ------------- | ------------- |
-|PHP  |  ✔ |  |
-| Java  |   |  ✔ |
-|Html  |   |  ✔ |
-| CSS  |  |  ✔ |
-| MySQL  |  ✔  |  |
+| Tecnologias  | Backend | Frontend | Função |
+| ------------- | ------------- | ------------- | ------------- |
+|PHP  |  ✔ |  | Usado no desenvolvivento das funcionalidades do backend do sistema, fazendo as operações de download, upload e salvamento de dados no banco Mysql.|
+|Html  |   |  ✔ | Usado na criação das páginas web, aquelas que são visíveis para o usuário.|
+| CSS  |  |  ✔ | Usado para estilizar as páginas web, estruturando cor, fonte e espaçamento da página.|
+| MySQL  |  ✔  |  | Foi usado para fazer o gerenciamento e manipulação de dados do sistema.|
 
 # Contribuições pessoais
 <p> Neste primeiro projeto atuei como desenvolvedor, ficando responsavél pela elaboração da documentação do projeto as apresentações das Sprints, layout das páginas e também de backup, para algum imprevisto que viessem a acontecer. </p>
