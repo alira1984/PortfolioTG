@@ -10,13 +10,13 @@
   
 # Tecnologias utilizadas
 
-| Tecnologias  | Backend | Frontend
-| ------------- | ------------- | ------------- |
-|PHP  |  ✔ |  |
-| JavaScript  |   |  ✔ |
-|Html  |   |  ✔ |
-| CSS  |  |  ✔ |
-| MySQL  |  ✔  |  |
+| Tecnologias  | Backend | Frontend | Função |
+| ------------- | ------------- | ------------- | ------------- |
+|PHP  |  ✔ |   | Usado no desenvolvivento das funcionalidades do backend do sistema, fazendo as operações por trás das páginas visíveis pelo usuário.|
+| JavaScript  |   |  ✔ | Desenvolvimento de métodos para proporcionar uma interface mais dinâmica e prover a comunicação com o servidor.|
+|Html  |   |  ✔ | Usado na criação das páginas web, aquelas que são visíveis para o usuário.|
+| CSS  |  |  ✔ | Usado para estilizar as páginas web, estruturando cor, fonte e espaçamento da página.|
+| MySQL  |  ✔  |  | Foi usado para fazer o gerenciamento e manipulação de dados do sistema.|
 
 # Contribuições pessoais
 <p> Novamente atuei como desenvolvedor, ficando responsavél pelo desenvolvimento dos templates, através da ferramenta figma, criar e apresentar as sprints e ajudar na criação do github do projeto.
