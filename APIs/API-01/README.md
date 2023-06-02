@@ -5,7 +5,7 @@
 
 # O projeto 
 
-  <p> Neste primeiro projeto desenvolvemos um site para venda de materiais didáticos online (e-commerce). O site visa de forma prática e simples, oferecer aos clientes os conteúdos de Matemática, Português, Arquitetura e organização de computadores, Lógica de programação, Laboratório de hardware e Inglês. Atráves da compra de algum desses produtos o cliente receberia os materiais no formato digital (PDF), relacionados a campra escolhida por ele.  </p>
+  <p> Neste primeiro projeto desenvolvemos um site para venda de materiais didáticos online (e-commerce). O site visa de forma prática e simples, oferecer aos clientes os conteúdos de Matemática, Português, Arquitetura e organização de computadores, Lógica de programação, Laboratório de hardware e Inglês. Atráves da compra de algum desses produtos o cliente receberia os materiais no formato digital (PDF), relacionados a compra escolhida por ele.  </p>
   
 # Tecnologias utilizadas
 | Tecnologias  | Backend | Frontend | Função |
@@ -32,3 +32,4 @@
 <p> Para nosso grupo conseguir desenvolver o projeto e fazer as entregas das sprints, tivemos que nos reunir varias vezes e alinhar as tarefas que cada integrante iria realizar. Para isso o trabalho em grupo foi essêncial, como integrante me coloquei a disposição para atuar em varias frentes e ajudar onde fosse preciso para realizar as tarefas. </p>
 
 * [Visite o site aqui](http://cpu.rf.gd/) 
+* [Visite o github do projeto](https://github.com/cpusfatec/cpusfatec) 
