@@ -16,3 +16,12 @@
 | Node.js  |  ✔  |  |   | Usado para o desenvolvimento back-end da aplicação.|
 | PostgreSQL  |  ✔  |  |   | Gerenciar e manipular dados do banco de dados.|
 
+# Contribuições pessoais
+
+
+# Hard Skills
+
+# Soft Skills
+
+
+
