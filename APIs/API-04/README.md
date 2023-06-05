@@ -10,8 +10,8 @@
   # Tecnologias utilizadas
 | Tecnologias  | Backend | Frontend | Emulador | Função |
 | ------------- | ------------- | ------------- | -------------- | ------------- |
-| JavaScript  | ✔  |   |   |Desenvolvimento de métodos para proporcionar uma interface mais dinâmica e prover a comunicação com o servidor.|
-| Expo  |   |  ✔ |   | Ferramenta que simplifica o desenvolvimento de aplicativos mobile com React Native.|
+| JavaScript  |  |  ✔  |   |Desenvolvimento de métodos para proporcionar uma interface mais dinâmica e prover a comunicação com o servidor.|
+| Expo  |   | |   ✔  | Ferramenta que simplifica o desenvolvimento de aplicativos mobile com React Native.|
 | React Native  |  |  ✔ |   | Framework baseado em React, que possibilita desenvolver aplicações mobile utilizando apenas Javascript.|
 | Node.js  |  ✔  |  |   | Usado para o desenvolvimento back-end da aplicação.|
 | PostgreSQL  |  ✔  |  |   | Gerenciar e manipular dados do banco de dados.|
