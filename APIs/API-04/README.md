@@ -23,5 +23,9 @@
 
 # Soft Skills
 
+### Link da plataforma em funcionamento
+### Link do gitHub do projeto
+
+
 
 
