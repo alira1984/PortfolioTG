@@ -45,6 +45,9 @@ Acesse aqui meu [Linkedin](https://www.linkedin.com/in/anderson-lira-ads/).
  
  3. 3º semestre-2021-2
  [Ionic Health Project](https://github.com/alira1984/PortifolioTG/tree/main/APIs/API-03): Uma plataforma de CRM (Customer Relationship Management) com a finalidade de gerenciar o relacionamento entre empresa e cliente, desta forma potencializando os dados dos clientes para definir futuras oportunidades de negócio.
+ 
+ 4. 4º semestre-2022-1  [TecSoja](https://github.com/alira1984/PortifolioTG/tree/main/APIs/API-04):
+ 
 
 
 
