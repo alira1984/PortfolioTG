@@ -11,12 +11,13 @@
 | Tecnologias  | Backend | Frontend | Emulador | Função |
 | ------------- | ------------- | ------------- | -------------- | ------------- |
 | JavaScript  |  |  ✔  |   |Desenvolvimento de métodos para proporcionar uma interface mais dinâmica e prover a comunicação com o servidor.|
-| Expo  |   | |   ✔  | Ferramenta que simplifica o desenvolvimento de aplicativos mobile com React Native.|
+| Expo  |   | |   ✔  | Tem como objetivo facilitar o processo de desenvolvimento de aplicativos móveis, através de um emulador, utilizando React Native.|
 | React Native  |  |  ✔ |   | Framework baseado em React, que possibilita desenvolver aplicações mobile utilizando apenas Javascript.|
-| Node.js  |  ✔  |  |   | Usado para o desenvolvimento back-end da aplicação.|
-| PostgreSQL  |  ✔  |  |   | Gerenciar e manipular dados do banco de dados.|
+| Node.js  |  ✔  |  |   | Node.js atua como um ambiente de tempo de execução do JavaScript no lado do servidor, permitindo que você crie aplicativos escaláveis, de alta performance e orientados a eventos.|
+| PostgreSQL  |  ✔  |  |   | Gerencia e manipula dados do banco de dados.|
 
 # Contribuições pessoais
+Neste projeto, desempenhei o papel de desenvolvedor, focado no backend. Minha responsabilidade principal foi auxiliar no desenvolvimento dos formulários e na integração com o banco de dados.
 
 
 # Hard Skills
