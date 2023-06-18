@@ -21,6 +21,12 @@ Neste projeto, desempenhei o papel de desenvolvedor, focado no backend. Minha re
 
 
 # Hard Skills
+* JavaScript - Sei fazer com ajuda
+* Expo - Sei fazer com autonomia
+* React Native - Sei fazer com ajuda
+* Node.js - Sei fazer com autonomia
+* PostgreSQL - Sei fazer com ajuda
+
 
 # Soft Skills
 
