@@ -39,7 +39,7 @@ Depois de estudar online por 4 semestres, retornamos ao método presencial. Esse
 <img src="https://github.com/alira1984/PortifolioTG/blob/main/APIs/API-04/tecsoja.gif" width="200px"/>
 </div>
 
-## Link do gitHub do projeto: [TecSoja](https://github.com/ThomasPalma1/FatecAPI-04)
+## Link do GitHub do projeto: [TecSoja](https://github.com/ThomasPalma1/FatecAPI-04)
  
 
 
