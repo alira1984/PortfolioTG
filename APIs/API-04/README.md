@@ -30,9 +30,13 @@ Neste projeto, desempenhei o papel de desenvolvedor, focado no backend. Minha re
 
 # Soft Skills
 
-### Link da plataforma em funcionamento
-### Link do gitHub do projeto
+# Gif do projeto rodando
+<div align="center">
+<img src="https://github.com/alira1984/PortifolioTG/blob/main/APIs/API-04/tecsoja.gif" width="200px"/>
+</div>
 
+# Link do gitHub do projeto
+<img src="https://github.com/ThomasPalma1/FatecAPI-04" width="200px"/>
 
 
 
