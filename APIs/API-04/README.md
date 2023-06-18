@@ -29,8 +29,12 @@ Neste projeto, desempenhei o papel de desenvolvedor, focado no backend. Minha re
 
 
 # Soft Skills
+### Flexibilidade
+Depois de estudar online por 4 semestres, retornamos ao método presencial. Esse novo cenário trouxe o desafio de nos enturmar com os colegas, formar um novo grupo e desenvolver o projeto da API. Nesse contexto, foi essencial utilizar as habilidades interpessoais (Soft Skills) que já havíamos desenvolvido nos semestres anteriores, como comunicação e resiliência. Essas habilidades fizeram toda a diferença para nos adaptarmos com sucesso.
 
-# Gif do projeto rodando
+
+
+## Gif do projeto rodando
 <div align="center">
 <img src="https://github.com/alira1984/PortifolioTG/blob/main/APIs/API-04/tecsoja.gif" width="200px"/>
 </div>
