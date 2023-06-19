@@ -15,10 +15,14 @@
 # Contribuições pessoais
 
 # Hard Skills
-
+* JavaScript - Sei fazer com ajuda
+* Android Studio - Sei fazer com ajuda
+* React Native - Sei fazer com ajuda
+* Mongo DB - Sei fazer com autonomia
+  
 # Soft Skills
 
-## Gif do App rodando
+## Gif do projeto mobile rodando
 
 ## Link do projeto Web rodando: [Reportfy Web](https://reportify-frontend-web-react.vercel.app/) 
 
