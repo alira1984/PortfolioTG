@@ -1,7 +1,7 @@
 <h1 align="center"> Reportfy </h1>
 
 # O projeto 
-<p>Desenvolvemos uma aplicação web e móvel para um sistema de SAC (Serviço de Atendimento ao Consumidor), que tem como objetivo fornecer uma experiência simples ao cliente para abrir solicitações de ocorrências e obter soluções para problemas. Através da nossa plataforma, os clientes podem facilmente registrar suas solicitações e acompanhar o status de cada ocorrência. Além disso, oferecemos um canal de comunicação direto com os responsáveis, por meio de um recurso de chat integrado.
+<p>Desenvolvemos uma aplicação web e mobile para um sistema de SAC (Serviço de Atendimento ao Consumidor), que tem como objetivo fornecer uma experiência simples ao cliente para abrir solicitações de ocorrências e obter soluções para problemas. Através da nossa plataforma, os clientes podem facilmente registrar suas solicitações e acompanhar o status de cada ocorrência. Além disso, oferecemos um canal de comunicação direto com os responsáveis, por meio de um recurso de chat integrado.
 
 Nossa aplicação de SAC tem as seguintes características:
 
