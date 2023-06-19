@@ -18,6 +18,8 @@
 
 # Soft Skills
 
-## Link do projeto
+## Gif do App rodando
 
-## Link do Github do projeto: 
+## Link do projeto Web rodando: [Reportfy Web](https://reportify-frontend-web-react.vercel.app/) 
+
+## Link do Github do projeto: [Reportfy](https://github.com/inodevs-5) 
