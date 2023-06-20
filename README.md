@@ -21,7 +21,7 @@ Acesse aqui meu [Linkedin](https://www.linkedin.com/in/anderson-lira-ads/).
 | Tecnologias   |    Básico     | Intermediário | Avançado |
 | ------------- | ------------- | ------------- | -------- |
 |    Html       |               |     ✔         |          |
-|    CSS        |      ✔        |               |          |
+|    CSS        |             |         ✔       |          |
 |    Git        |               |        ✔      |          |
 |    Java       |        ✔      |               |          |
 |    C          |         ✔     |               |          |
@@ -31,7 +31,7 @@ Acesse aqui meu [Linkedin](https://www.linkedin.com/in/anderson-lira-ads/).
 |   React Native|         ✔     |               |          |
 |    Mysql      |               |       ✔       |          |
 |   PostgreSQL  |        ✔      |               |          |
-|    MongoDB    |         ✔     |               |          |
+|    MongoDB    |             |       ✔         |          |
 
 
 <h1 align="left">  Meus projetos </h1>
