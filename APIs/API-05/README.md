@@ -42,7 +42,8 @@ No meu 5º semestre na FATEC, me deparei com um grande desafio que exigiu determ
 ## Gif do projeto mobile rodando
 #### Tela de cadastro de Ros
 <div align="lefth">
-<img src="https://github.com/alira1984/PortifolioTG/blob/main/APIs/API-05/CadastroRO.gif" width="400px"/>
+<img src="https://github.com/alira1984/PortifolioTG/blob/main/APIs/API-05/CadastroRO.gif" width="300px"/>
+<img src="https://github.com/alira1984/PortifolioTG/blob/main/APIs/API-05/Usuarios.gif" width="300px"/>
 </div>
 
 ## Link do projeto Web rodando: [Reportfy Web](https://reportify-frontend-web-react.vercel.app/) 
