@@ -35,7 +35,7 @@ Acesse aqui meu [Linkedin](https://www.linkedin.com/in/anderson-lira-ads/).
 
 
 <h1 align="left">  Meus projetos </h1>
-<p align="justify"> Aqui está o meu primeiro projeto desenvolvido na FATEC, iniciado no segundo semestre de 2020. Também, há um link dedicado para o projeto: </P>
+<p align="justify"> Aqui estão os projetos que desenvolvi na FATEC até o 5º semestre. Há também um link dedicado para cada projeto por semestre.</P>
 
 1. 1º semestre-2020-2
  [CPU-Centro de formação universitária](https://github.com/alira1984/PortifolioTG/tree/main/APIs/API-01): È um site desenvolvido para venda de materiais didáticos online (e-commerce). Ele oferece aos clientes os conteúdos mais visados na área da tecnologia e informação nos dias atuais.
