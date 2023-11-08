@@ -50,6 +50,8 @@ Acesse aqui meu [Linkedin](https://www.linkedin.com/in/anderson-lira-ads/).
 com objetivo de consolidar dados e informações relacionadas ao cultivo da soja. Ela proporciona aos agricultores uma visão completa da produtividade em cada cultivo, bem como da produtividade total. Além disso, a aplicação permite comparar a produtividade e as áreas plantadas nos diferentes municípios.
 
 5. 5º semestre-2023-1  [Reportfy](https://github.com/alira1984/PortifolioTG/tree/main/APIs/API-05): Uma aplicação Web e Mobile de um sistema de SAC (Serviço de atendimeno ao consumidor) que entrega de forma simples ao cliente abrir solicitações de ocorrências para soluções de problemas, acompanhalas através de status e um canal de comunicação via chat, direto com o responsável.
+
+6. 6º semestre-2023-2  [Inodevs-6](https://github.com/alira1984/PortifolioTG/tree/main/APIs/API-06): Sistema de busca de candidatos a vagas de empresa utilizando intelegência artificial.
  
 
 
