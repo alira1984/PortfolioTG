@@ -18,7 +18,7 @@ Com esta aplicação intuitiva e eficiente, as empresas podem aprimorar signific
 | Java |✔|   |   | Linguagem de programação de alto nível, orientada a objetos e classes, usada para desenvolver funções de back end da aplicação.|
 | Python  |  ✔  |  |   | Linguagem de programação de alto nível, interpretada, orientada a objetos e de fácil leitura e escrita. Usada para criar funcionalidades de back-end e também para inteligência artificial, incluindo a extração de dados (web scraping) da plataforma. |
 | Vue.js |    | ✔ |   | Framework de código aberto para construção de interfaces de usuário. Responsável pela construção das interações com os usuários, as páginas web. |
-| Spring | ✔ |  |    | Spring Framework que simplifica o processo de configuração e criação de aplicações Spring, tornando mais fácil iniciar rapidamente projetos com Spring. |
+| Spring Boot | ✔ |  |    | Framework que simplifica o processo de configuração e criação de aplicações Spring, tornando mais fácil iniciar rapidamente projetos com Spring. |
 | Django | ✔ |  ✔  |   | Framework de desenvolvimento web de código aberto, escrito em Python. Ele segue o padrão arquitetural Model-View-Controller (MVC) e é projetado para facilitar a criação rápida e eficiente de aplicações web robustas e escaláveis. |
 | Mysql | ✔ |  |     | Sistema de gerenciamento de banco de dados relacional de código aberto. Utilizado no gerenciamento e manipulação de dados do sistema. |
 | GitHub |  |  |   ✔  | Plataforma de hospedagem de código-fonte baseada na web que utiliza o sistema de controle de versão Git. |
