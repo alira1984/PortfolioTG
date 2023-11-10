@@ -32,9 +32,9 @@ Neste projeto, minha responsabilidade incluiu a integração do ChatGPT à nossa
 
 # Hard Skills
 * Python - Sei fazer com autonomia
-* Django - Sei fazer com ajuda
+* Django - Sei fazer com autonomia
 * Java - Sei fazer com ajuda
-* Spring Boot - Sei fazer com ajuda
+* Spring Boot - Sei fazer com autonomia
   
 # Soft Skills
 ### Comunicação eficaz e Colaboração
