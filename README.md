@@ -23,7 +23,7 @@ Acesse aqui meu [Linkedin](https://www.linkedin.com/in/anderson-lira-ads/).
 |    Html       |               |     ✔         |          |
 |    CSS        |             |         ✔       |          |
 |    Git        |               |        ✔      |          |
-|    Java       |        ✔      |               |          |
+|    Java       |              |         ✔      |          |
 |    C          |         ✔     |               |          |
 |    Python     |               |        ✔      |          |
 |    JavaScript |         ✔     |               |          |
