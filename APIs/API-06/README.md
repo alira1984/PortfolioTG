@@ -40,20 +40,10 @@ Neste projeto, minha responsabilidade incluiu a integração do ChatGPT à nossa
 ### Comunicação eficaz e Colaboração
 No meu sexto semestre na FATEC, enfrentamos um desafio inovador: trabalhar com Inteligência Artificial. Essa atividade está em alta no mercado atualmente e desperta grande interesse. Fomos desafiados a aprender um pouco sobre IA e aplicar esse conhecimento em nosso projeto. Uma comunicação eficaz foi crucial para que toda a equipe conseguisse desenvolver as tarefas do projeto. Além disso, a colaboração foi essencial para alcançarmos nossos objetivos.
 
-## Gif do projeto mobile rodando
-#### Tela de cadastro de Ros | Tabela | Edição de usuários | Chat
-<div align="lefth">
-<img src="https://github.com/alira1984/PortifolioTG/blob/main/APIs/API-05/CadastroRO.gif" width="300px"/>
-<img src="https://github.com/alira1984/PortifolioTG/blob/main/APIs/API-05/Usuarios.gif" width="300px"/>
-<img src="https://github.com/alira1984/PortifolioTG/blob/main/APIs/API-05/Chat.gif" width="300px"/>
-</div>
-
-## Gif do projeto Web rodando:
+## Gif do projeto rodando:
 <div align="center">
-<img src="https://github.com/alira1984/PortifolioTG/blob/main/APIs/API-05/VersaoWeb.gif"/>
+<img src="https://github.com/alira1984/PortifolioTG/blob/main/APIs/API-06/execution-sprint3.gif"/>
 </div>
- 
-## Link do projeto Web rodando: [Reportfy Web](https://reportify-frontend-web-react.vercel.app/) 
 
-## Link do Github do projeto: [Reportfy](https://github.com/inodevs-5) 
+## Link do Github do projeto: [Inodevs|Pro4Tech](https://github.com/orgs/Inodevs-6/repositories) 
 
