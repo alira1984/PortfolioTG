@@ -5,7 +5,7 @@
 <h1 align="left"> Introdução </h1>
 <p align="justify">Olá! Meu nome é Anderson e atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos. Com 39 anos de idade, possuo experiência prévia na indústria, tendo trabalhado como montador de aeronaves na Embraer e atualmente na Johnson, onde trabalho na fabricação de agulhas cirúrgicas.
 Ao longo do tempo, aprendi a ser atento aos detalhes e a trabalhar com diligência e método, características essenciais na indústria da aviação e na produção de dispositivos médicos. Com o curso de Análise e Desenvolvimento de Sistemas, estou expandindo minhas habilidades em diversas linguagens de programação e aprendendo a trabalhar em equipe para resolver problemas complexos.
-Atualmente estou cursando o 5º semestre do curso na Fatec Jessen Vidal de São José dos Campos-SP e estou animado para continuar desenvolvendo minhas habilidades e contribuir para a criação de soluções tecnológicas inovadoras.</p>
+Atualmente estou cursando o 6º semestre do curso na Fatec Jessen Vidal de São José dos Campos-SP e estou animado para continuar desenvolvendo minhas habilidades e contribuir para a criação de soluções tecnológicas inovadoras.</p>
 </div>
 
 <h1 align="left">  Contatos :book: </h1>
@@ -51,7 +51,7 @@ com objetivo de consolidar dados e informações relacionadas ao cultivo da soja
 
 5. 5º semestre-2023-1  [Reportfy](https://github.com/alira1984/PortifolioTG/tree/main/APIs/API-05): Uma aplicação Web e Mobile de um sistema de SAC (Serviço de atendimeno ao consumidor) que entrega de forma simples ao cliente abrir solicitações de ocorrências para soluções de problemas, acompanhalas através de status e um canal de comunicação via chat, direto com o responsável.
 
-6. 6º semestre-2023-2  [Inodevs-6](https://github.com/alira1984/PortifolioTG/tree/main/APIs/API-06): Sistema de busca de candidatos a vagas de empresa utilizando intelegência artificial.
+6. 6º semestre-2023-2  [Inodevs-6](https://github.com/alira1984/PortifolioTG/tree/main/APIs/API-06): Sistema de busca de candidatos a vagas de emprego, utilizando inteligência artificial. Este sistema realiza pesquisas abrangentes nos principais sites de recrutamento e seleção, identificando minuciosamente os candidatos mais qualificados de acordo com os requisitos personalizados pela empresa.
  
 
 
