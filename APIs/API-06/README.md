@@ -1,4 +1,4 @@
-<h1 align="center"> Inodevs-6 </h1>
+<h1 align="center"> Inodevs-6 | Pro4Tech </h1>
 
 # O projeto 
 <p>Desenvolvemos uma aplicação inovadora para simplificar o processo de recrutamento e seleção de candidatos dentro das empresas. Esta aplicação oferece uma plataforma segura com funcionalidades de login e autenticação multifatorial, garantindo a confidencialidade dos dados.
@@ -28,17 +28,17 @@ Com esta aplicação intuitiva e eficiente, as empresas podem aprimorar signific
 
 
 # Contribuições pessoais
-Neste projeto fiquei com a responsabilidade de criar o Backend das funcionalidades das paginas de registro de ocarrência, edição de registros de ocorrência, chat para comunicação do cliente com o atendimento, pagina de relatório de Ros e a tabela no banco de dados com os dados da pagina de Ros.
+Neste projeto, minha responsabilidade incluiu a integração do ChatGPT à nossa plataforma para realizar a pesquisa do CHA de um candidato. Além disso, desenvolvi o modelo de classificação de candidatos, implementei o sistema de login para autenticação dos usuários e criei o modelo de notificação para os resultados.
 
 # Hard Skills
-* JavaScript - Sei fazer com autonomia
-* Android Studio - Sei fazer com ajuda
-* React Native - Sei fazer com ajuda
-* Mongo DB - Sei fazer com autonomia
+* Python - Sei fazer com autonomia
+* Django - Sei fazer com ajuda
+* Java - Sei fazer com ajuda
+* Spring Boot - Sei fazer com ajuda
   
 # Soft Skills
-### Adaptabilidade
-No meu 5º semestre na FATEC, me deparei com um grande desafio que exigiu determinação para continuar meus estudos. Por motivos pessoais relacionados à gravidez da minha esposa e ao nascimento do meu filho, tomei a decisão de trancar minha matrícula por um período de seis meses, de setembro de 2022 a fevereiro de 2023. Após meu retorno, enfrentei o desafio de me integrar a um novo grupo de API e me adaptar aos novos colegas de classe. Embora tenha sido uma jornada desafiadora, no final deste semestre, posso afirmar que todo o esforço valeu a pena para retomar meus estudos e concluir mais uma etapa. Agora, estou mais perto de alcançar meu objetivo. Vamos em frente, com determinação!
+### Comunicação eficaz e Colaboração
+No meu sexto semestre na FATEC, enfrentamos um desafio inovador: trabalhar com Inteligência Artificial. Essa atividade está em alta no mercado atualmente e desperta grande interesse. Fomos desafiados a aprender um pouco sobre IA e aplicar esse conhecimento em nosso projeto. Uma comunicação eficaz foi crucial para que toda a equipe conseguisse desenvolver as tarefas do projeto. Além disso, a colaboração foi essencial para alcançarmos nossos objetivos.
 
 ## Gif do projeto mobile rodando
 #### Tela de cadastro de Ros | Tabela | Edição de usuários | Chat
