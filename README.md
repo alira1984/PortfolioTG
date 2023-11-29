@@ -23,7 +23,7 @@ Acesse aqui meu [Linkedin](https://www.linkedin.com/in/anderson-lira-ads/).
 |    Html       |               |     ✔         |          |
 |    CSS        |             |         ✔       |          |
 |    Git        |               |        ✔      |          |
-|    Java       |              |         ✔      |          |
+|    Java       |         ✔       |             |          |
 |    C          |         ✔     |               |          |
 |    Python     |               |        ✔      |          |
 |    JavaScript |         ✔     |               |          |
@@ -31,7 +31,7 @@ Acesse aqui meu [Linkedin](https://www.linkedin.com/in/anderson-lira-ads/).
 |   React Native|         ✔     |               |          |
 |    Mysql      |               |       ✔       |          |
 |   PostgreSQL  |        ✔      |               |          |
-|    MongoDB    |             |       ✔         |          |
+|    MongoDB    |          ✔    |               |          |
 
 
 <h1 align="left">  Meus projetos </h1>
