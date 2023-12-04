@@ -34,7 +34,7 @@ Neste projeto, minha responsabilidade incluiu a integração do ChatGPT à nossa
 * Python - Sei fazer com autonomia
 * Django - Sei fazer com autonomia
 * Java - Sei fazer com ajuda
-* Spring Boot - Sei fazer com autonomia
+* Spring Boot - Sei fazer com ajuda
   
 # Soft Skills
 ### Comunicação eficaz e Colaboração
@@ -42,7 +42,7 @@ No meu sexto semestre na FATEC, enfrentamos um desafio inovador: trabalhar com I
 
 ## Gif do projeto rodando:
 <div align="center">
-<img src="https://github.com/alira1984/PortifolioTG/blob/main/APIs/API-06/execution-sprint3.gif"/>
+<img src="https://github.com/alira1984/PortfolioTG/blob/main/APIs/API-06/6-semestre.gif"/>
 </div>
 
 ## Link do Github do projeto: [Inodevs|Pro4Tech](https://github.com/orgs/Inodevs-6/repositories) 
