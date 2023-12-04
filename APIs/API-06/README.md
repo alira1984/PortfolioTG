@@ -1,7 +1,7 @@
 <h1 align="center"> Inodevs-6 | Pro4Tech </h1>
 
 # O projeto 
-<p>Desenvolvemos uma aplicação para simplificar o processo de recrutamento e seleção de candidatos dentro das empresas. Esta aplicação oferece uma plataforma segura com funcionalidades de login e autenticação multifatorial, garantindo a confidencialidade dos dados.
+<p>Desenvolvemos uma aplicação para simplificar o processo de recrutamento e seleção de candidatos dentro das empresas. Esta aplicação oferece uma plataforma segura com funcionalidades de login e autenticação por duas etapas, garantindo mais segurança dos dados.
 
 Ao usar a aplicação, os recrutadores podem inserir facilmente a descrição da vaga, incluindo as competências, habilidades e atitudes desejadas para o cargo em questão. A partir dessas informações, nossa aplicação utiliza a metodologia CHA (Competências, Habilidades e Atitudes) para realizar web scraping em redes sociais de recrutamento relevantes.
 
