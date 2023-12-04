@@ -51,7 +51,7 @@ com objetivo de consolidar dados e informações relacionadas ao cultivo da soja
 
 5. 5º semestre-2023-1  [Reportfy](https://github.com/alira1984/PortifolioTG/tree/main/APIs/API-05): Uma aplicação Web e Mobile de um sistema de SAC (Serviço de atendimeno ao consumidor) que entrega de forma simples ao cliente abrir solicitações de ocorrências para soluções de problemas, acompanhalas através de status e um canal de comunicação via chat, direto com o responsável.
 
-6. 6º semestre-2023-2  [Inodevs-6](https://github.com/alira1984/PortifolioTG/tree/main/APIs/API-06): Sistema de busca de candidatos a vagas de emprego, utilizando inteligência artificial. Este sistema realiza pesquisas abrangentes nos principais sites de recrutamento e seleção, identificando minuciosamente os candidatos mais qualificados de acordo com os requisitos personalizados pela empresa.
+6. 6º semestre-2023-2  [Inodevs-6](https://github.com/alira1984/PortifolioTG/tree/main/APIs/API-06): Sistema de busca de candidatos a vagas de emprego, utilizando inteligência artificial. Este sistema realiza um web scrapping na internet, identificando os candidatos mais qualificados de acordo com os requisitos personalizados pela empresa.
  
 
 
