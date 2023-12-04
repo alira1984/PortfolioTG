@@ -42,7 +42,7 @@ No meu sexto semestre na FATEC, enfrentamos um desafio inovador: trabalhar com I
 
 ## Gif do projeto rodando:
 <div align="center">
-<img src="https://github.com/alira1984/PortfolioTG/blob/main/APIs/API-06/6-semestre.gif"/>
+<img src="https://github.com/alira1984/PortfolioTG/blob/main/APIs/API-06/execu%C3%A7%C3%A3o%20final%20gif%20editado.gif"/>
 </div>
 
 ## Link do Github do projeto: [Inodevs|Pro4Tech](https://github.com/orgs/Inodevs-6/repositories) 
