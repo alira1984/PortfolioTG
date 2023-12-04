@@ -28,7 +28,7 @@ Com esta aplicação intuitiva e eficiente, as empresas podem aprimorar signific
 
 
 # Contribuições pessoais
-Neste projeto, minha responsabilidade incluiu a integração do ChatGPT à nossa plataforma para realizar a pesquisa do CHA de um candidato. Além disso, desenvolvi o modelo de classificação de candidatos, implementei o sistema de login para autenticação dos usuários e criei o modelo de notificação para os resultados.
+Neste projeto, minha responsabilidade incluiu a integração do ChatGPT à nossa plataforma para realizar a pesquisa do CHA de um candidato. Além disso, desenvolvi junto com meus colegas o modelo de classificação de candidatos, implementamos o sistema de login para autenticação dos usuários e o modelo de notificação para os resultados.
 
 # Hard Skills
 * Python - Sei fazer com autonomia
